@@ -1,6 +1,6 @@
 # README
 
-Trying to get this to work.
+Trying to get this to work. Rails installed
 
 This README would normally document whatever steps are necessary to get the
 application up and running.
